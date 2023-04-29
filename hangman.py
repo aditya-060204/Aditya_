@@ -10,7 +10,6 @@ def gameplay(wordchoice):
   letters=[]
   correct =False
   display(n)
-  print(wordchoice)
   print('\n\n')
   temp_word ='_'*len(wordchoice)
   print(temp_word,'\n\n')
